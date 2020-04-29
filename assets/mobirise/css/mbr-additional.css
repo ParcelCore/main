@@ -1197,6 +1197,90 @@ section.lazy-placeholder:after {
     margin-bottom: 2rem;
   }
 }
+.cid-rXwV3G58r5 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #f4f8fa;
+}
+.cid-rXwV3G58r5 .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-rXwV3G58r5 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rXwV3G58r5 .mbr-section-btn {
+  margin: 0;
+}
+.cid-rXwV3G58r5 .form-control {
+  box-shadow: none;
+  padding: 1.07em 1.07em;
+  background-color: #f5f5f5;
+  border: 1px solid #e8e8e8;
+  color: #656565;
+  line-height: 1.43;
+  min-height: 3.5em;
+  border-radius: .25rem;
+}
+.cid-rXwV3G58r5 .form-control:focus,
+.cid-rXwV3G58r5 .form-control:hover {
+  border: 1px solid #e8e8e8;
+  background-color: #f5f5f5;
+}
+.cid-rXwV3G58r5 .form-group {
+  margin-bottom: 1rem;
+}
+.cid-rXwV3G58r5 input::-webkit-input-placeholder,
+.cid-rXwV3G58r5 textarea::-webkit-input-placeholder {
+  color: #656565;
+}
+.cid-rXwV3G58r5 input:-moz-placeholder,
+.cid-rXwV3G58r5 textarea:-moz-placeholder {
+  color: #656565;
+}
+.cid-rXwV3G58r5 .jq-selectbox li,
+.cid-rXwV3G58r5 .jq-selectbox li {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-rXwV3G58r5 .jq-selectbox li:hover,
+.cid-rXwV3G58r5 .jq-selectbox li.selected {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-rXwV3G58r5 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-rXwV3G58r5 .jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-rXwV3G58r5 .form-group,
+.cid-rXwV3G58r5 .mbr-section-btn {
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+}
+@media (min-width: 992px) {
+  .cid-rXwV3G58r5 .col-auto.mbr-section-btn .btn {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 100%;
+    margin: 0 !important;
+  }
+}
+@media (min-width: 768px) {
+  .cid-rXwV3G58r5 .container > .row > .col-md-6:first-child {
+    padding-right: 30px;
+  }
+  .cid-rXwV3G58r5 .container > .row > .col-md-6:last-child {
+    padding-left: 30px;
+  }
+}
+@media (max-width: 499px) {
+  .cid-rXwV3G58r5 .form-block {
+    padding: 1rem;
+  }
+}
 .cid-rXgoTnDdTw.popup-builder {
   background-color: #ffffff;
 }
